@@ -1,0 +1,8 @@
+.DS_Store
+*.pbxuser
+*.xcuserdatad
+*.xccheckout
+*.xcuserstate
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
